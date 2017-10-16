@@ -9,6 +9,9 @@ read_excel_multi(file)
 \arguments{
 \item{file}{enter a file name}
 }
+\value{
+import ALL sheets from an xlsx file
+}
 \description{
 Title
 }
