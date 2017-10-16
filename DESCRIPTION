@@ -15,4 +15,9 @@ Imports: assertthat,
     purrr,
     magrittr,
     tibble,
-    tidyr
+    tidyr,
+    dplyr,
+    prenoms,
+    ggplot2,
+    dygraphs,
+    readxl

@@ -15,3 +15,6 @@ Takes all the csv from a folder Import them and put them in a list Returns the l
 \description{
 Title
 }
+\examples{
+my_csv_reader("foldername")
+}

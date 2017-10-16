@@ -7,6 +7,7 @@
 #'
 #' @return saves a Data.frame in a csv file and also outputs the full path of where the csv has been saved.
 #' @export
+#' @import assertthat utils
 #'
 #' @examples
 #'
