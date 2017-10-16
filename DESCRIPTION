@@ -1,10 +1,18 @@
 Package: premierpackage
+Type: Package
 Title: Fonctions vues en cours
-Version: 0.0.0.9000
+Version: 0.1.0
+Author: Amélie Meurer
+Maintainer: <amelie.meurer@hec.edu>
 Authors@R: person("Amélie", "Meurer", email = "amelie.meurer@hec.edu", role= "aut")
 Description: 4 fonctions: save_as_csv , my_csv_reader, multi_excel, draw_names
 Depends: R (>= 3.4.1)
-License: What license is it under?
+License: GPL-3
 Encoding: UTF-8
 LazyData: true
 RoxygenNote: 6.0.1
+Imports: assertthat,
+    purrr,
+    magrittr,
+    tibble,
+    tidyr
