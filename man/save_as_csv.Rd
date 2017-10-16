@@ -11,6 +11,8 @@ save_as_csv(dataset, filename, row.names = FALSE, ...)
 
 \item{filename}{Give its file names}
 
+\item{row.names}{Ne prend pas le nom des lignes}
+
 \item{...}{}
 }
 \value{
