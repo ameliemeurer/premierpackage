@@ -2,7 +2,7 @@
 #'
 #' @param NameVec give a vector with names
 #'
-#' @return plot simultaneously the popularity of more than one name
+#' @return plot simultaneously the popularity of more than one name with ggplot
 #' @export
 #' @import prenoms dplyr ggplot2 assertthat
 #'
