@@ -3,7 +3,7 @@
 #' @param dataset Give a data set
 #' @param filename Give its file names
 #' @param row.names Ne prend pas le nom des lignes
-#' @param ...
+#' @param ... other parameters
 #'
 #' @return saves a Data.frame in a csv file and also outputs the full path of where the csv has been saved.
 #' @export

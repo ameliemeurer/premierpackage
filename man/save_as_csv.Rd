@@ -13,7 +13,7 @@ save_as_csv(dataset, filename, row.names = FALSE, ...)
 
 \item{row.names}{Ne prend pas le nom des lignes}
 
-\item{...}{}
+\item{...}{other parameters}
 }
 \value{
 saves a Data.frame in a csv file and also outputs the full path of where the csv has been saved.
