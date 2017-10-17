@@ -12,7 +12,7 @@ draw_a_name(the_name = n, the_sex = s)
 \item{the_sex}{: give the sex}
 }
 \value{
-which can plot the popularity of babynames (using prenoms) in times use the_name and the_sex as arguments.
+can plot the popularity of babynames (using prenoms) in times use the_name and the_sex as arguments.
 }
 \description{
 Title

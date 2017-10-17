@@ -10,7 +10,7 @@ draw_names(NameVec)
 \item{NameVec}{give a vector with names}
 }
 \value{
-plot simultaneously the popularity of more than one name
+plot simultaneously the popularity of more than one name with ggplot
 }
 \description{
 Title

@@ -21,3 +21,6 @@ Imports: assertthat,
     ggplot2,
     dygraphs,
     readxl
+Suggests: knitr,
+    rmarkdown
+VignetteBuilder: knitr
